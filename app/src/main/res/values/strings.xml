@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">my-app-test</string>
+    <string name="button_label_save">save here</string>
+</resources>
